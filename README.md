@@ -156,6 +156,6 @@ Eu dei um console.log do objeto
 
 ## Conclusão
 
-Nenhuma, esse projeto foi muito sem noção
-Espero que vocês tenham gostado, se sim, deixem um curtir/gostei, é muito importante.
+Nenhuma, esse projeto foi muito sem noção<br>
+Espero que vocês tenham gostado, se sim, deixem um curtir/gostei, é muito importante.<br>
 Cuidem dos seus 🐈🐈
